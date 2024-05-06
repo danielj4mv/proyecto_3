@@ -1,4 +1,5 @@
 # Entrega Proyecto 3
+Video en youtube: [https://youtu.be/yds9bxsD4N0](https://youtu.be/yds9bxsD4N0)
 ## Guía para desplegar 
 1. **Clonar el repositorio en la carpeta desde la que se quiere ejecutar el notebook**
    ```console
